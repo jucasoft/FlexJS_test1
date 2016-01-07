@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/FlexJS_Test1.iml" filepath="$PROJECT_DIR$/FlexJS_Test1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/backbone/backbone.iml" filepath="$PROJECT_DIR$/backbone/backbone.iml" />
+      <module fileurl="file://$PROJECT_DIR$/underscore/underscore.iml" filepath="$PROJECT_DIR$/underscore/underscore.iml" />
+    </modules>
+  </component>
+</project>
