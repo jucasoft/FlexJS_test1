@@ -13,7 +13,7 @@ public class ViewA extends View {
 
     override public function render():* {
         var template:* = _.template("<h2><%- value %></h2>");
-        var aa:String = template({value: 'TEST'});
+        var aa:String = template({value: 'It - could - works!'});
         this.$el.html(aa);
         return this;
     }

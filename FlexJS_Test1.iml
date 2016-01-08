@@ -8,6 +8,12 @@
             <entry library-name="FlexJS Nightly Lib" library-level="application">
               <dependency linkage="Merged" />
             </entry>
+            <entry library-id="c3edf8b2-1e64-484e-acd4-dbdeac63228a">
+              <dependency linkage="Merged" />
+            </entry>
+            <entry library-id="f0ab0f81-6fed-4cee-8274-a8df32a6cd33">
+              <dependency linkage="Merged" />
+            </entry>
           </entries>
           <sdk name="js-05" />
         </dependencies>
@@ -27,5 +33,25 @@
     <orderEntry type="jdk" jdkName="js-05" jdkType="Flex SDK Type (new)" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" exported="" name="FlexJS Nightly Lib" level="application" />
+    <orderEntry type="module-library" exported="">
+      <library type="flex">
+        <properties id="c3edf8b2-1e64-484e-acd4-dbdeac63228a" />
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/libs/backbone.swc!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library type="flex">
+        <properties id="f0ab0f81-6fed-4cee-8274-a8df32a6cd33" />
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/libs/underscore.swc!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
   </component>
 </module>
